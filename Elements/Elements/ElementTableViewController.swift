@@ -14,7 +14,7 @@ class ElementTableViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        self.title = "Br Ba"
         loadData()
     }
     
